@@ -1,0 +1,1 @@
+Look for the builded exe path, past in in the tohex.php (PHP server needed) you see a bunch of code, copy it and pase in the the DB stub or replace.
